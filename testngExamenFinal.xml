@@ -1,0 +1,8 @@
+<suite name="ExamenFinalMarzo">
+    <test name="Ejercicios ExamenFinalMarzo">
+
+        <classes>
+            <class name="ExamenFinalMarzo.prueba_mailchimp"></class>
+        </classes>
+    </test>
+</suite>
